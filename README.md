@@ -1,5 +1,7 @@
-<div align="center">
-    <img src="assets/animated-heading.svg" alt="Animated Heading" />
+<div>
+<p align="center">
+  <img src="assets/animated-heading.svg" alt="Animated Heading" width="700" />
+</p>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cokoreto&label=Profile%20views&color=0e75b6&style=flat" alt="cokoreto" /> </p>
