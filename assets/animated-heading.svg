@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140">
+  <style>
+    .big { font: bold 34px 'Segoe UI', Roboto, Arial, sans-serif; }
+    .small { font: 18px 'Segoe UI', Roboto, Arial, sans-serif; fill:#222222; }
+  </style>
+  <text x="20" y="40" class="big">
+    <tspan x="20" y="40" fill="#993300">Hey there!
+      <animate attributeName="fill" values="#993300;#ff5733;#33ff57;#3357ff;#ff33a1;#33fff5;#ffd633;#7a33ff;#ff9933;#33a1ff" dur="1s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+  <text x="20" y="80" class="small">It's me, cokoreto!</text>
+  <text x="20" y="110" class="small">Welcome to my profile</text>
+</svg>
