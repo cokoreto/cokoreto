@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+cokoreto!;Welcome;To+my+profile" alt="Typing SVG" />
+    <img src="assets/animated-heading.svg" alt="Animated Heading" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cokoreto&label=Profile%20views&color=0e75b6&style=flat" alt="cokoreto" /> </p>
@@ -12,8 +12,8 @@
 <p align="center">🌟 If you share any of these interests or want to collaborate, feel free to connect!</p>
 
 <p align="center">
-  <a href="https://github.com/cokoreto"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"></a>
-  <a href="https://www.roblox.com/users/163914103/profile" target="_blank" rel="noopener"><img src="https://cdn.simpleicons.org/roblox/000000" alt="Roblox" width="30" height="30"></a>
+  <a href="https://github.com/cokoreto" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"></a>
+  <a href="https://www.roblox.com/users/163914103/profile" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/roblox/000000" alt="Roblox" width="30" height="30"></a>
 </p>
 
 ### 🛠 Language and tools
@@ -37,23 +37,23 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/cokoreto">
+  <a href="https://github.com/cokoreto" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cokoreto?cardType=github&theme=github-dark">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cokoreto">
+  <a href="https://github.com/cokoreto" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=cokoreto&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cokoreto">
+  <a href="https://github.com/cokoreto" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cokoreto&theme=redical" alt="Activity Graph">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cokoreto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokoreto&theme=radical&layout=compact" alt="Top languages"></a>
+  <a href="https://github.com/cokoreto" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokoreto&theme=radical&layout=compact" alt="Top languages"></a>
 </p>
