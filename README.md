@@ -11,19 +11,15 @@
   <!-- Ganti dengan avatar jika mau -->
   <!-- <img src="https://avatars.githubusercontent.com/u/XXX?v=4" alt="Your Profile Picture" width="200" height="200"> -->
 
-  <p>👋 Hey there! I'm <strong>USERNAME</strong>, a student / developer / hobbyist.</p>
+  <p>👋 Hey there! I'm <strong>chocoreto</strong>, a student / developer / hobbyist.</p>
 
-  - 👀 I’m interested in Whatsapp Bot, Linux, Raspberry Pi  
-  - 💻 Currently learning C and web technologies  
-  - 🌀 Fun fact: I love listening to music and watching anime/movies/series
+  - 👀 I’m interested in Discord Bot, Some Automation Projects
 </div>
 
 <p align="center">🌟 If you share any of these interests or want to collaborate, feel free to connect!</p>
 
 <p align="center">
-  <a href="https://wa.me/WHATSAPP_NUMBER"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="30" height="30"></a>
-  <a href="https://youtube.com/@YT_CHANNEL"><img src="https://i.ibb.co/rFJv7pC/1701093278737-removebg-preview.png" alt="YouTube" width="40" height="30"></a>
-  <a href="https://github.com/USERNAME"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"></a>
+  <a href="https://github.com/cokoreto"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"></a>
 </p>
 
 ### 🛠 Language and tools
@@ -49,23 +45,23 @@
 
 <p align="center">
   <!-- Ganti USERNAME di semua URL di bawah -->
-  <a href="https://github.com/USERNAME">
-    <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/USERNAME?cardType=github&theme=github-dark">
+  <a href="https://github.com/cokoreto">
+    <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cokoreto?cardType=github&theme=github-dark">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&background=000000" alt="GitHub Streak">
+  <a href="https://github.com/cokoreto">
+    <img src="https://streak-stats.demolab.com?user=cokoreto&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=redical" alt="Activity Graph">
+  <a href="https://github.com/cokoreto">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cokoreto&theme=redical" alt="Activity Graph">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=radical&layout=compact" alt="Top languages"></a>
+  <a href="https://github.com/cokoreto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokoreto&theme=radical&layout=compact" alt="Top languages"></a>
 </p>
