@@ -1,7 +1,7 @@
-<div>
-<p align="center">
-  <img src="assets/animated-heading.svg" alt="Animated Heading" width="700" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+cokoreto!;Welcome;To+my+profile" alt="Typing SVG" />
+  </p>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cokoreto&label=Profile%20views&color=0e75b6&style=flat" alt="cokoreto" /> </p>
