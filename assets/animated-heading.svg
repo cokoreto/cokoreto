@@ -3,11 +3,11 @@
     .big { font: bold 34px 'Segoe UI', Roboto, Arial, sans-serif; }
     .small { font: 18px 'Segoe UI', Roboto, Arial, sans-serif; fill:#222222; }
   </style>
-  <text x="20" y="40" class="big">
-    <tspan x="20" y="40" fill="#993300">Hey there!
+  <text x="50%" y="36%" class="big" text-anchor="middle" dominant-baseline="middle">
+    <tspan fill="#993300">Hey there!
       <animate attributeName="fill" values="#993300;#ff5733;#33ff57;#3357ff;#ff33a1;#33fff5;#ffd633;#7a33ff;#ff9933;#33a1ff" dur="1s" repeatCount="indefinite"/>
     </tspan>
   </text>
-  <text x="20" y="80" class="small">It's me, cokoreto!</text>
-  <text x="20" y="110" class="small">Welcome to my profile</text>
+  <text x="50%" y="60%" class="small" text-anchor="middle" dominant-baseline="middle">It's me, cokoreto!</text>
+  <text x="50%" y="79%" class="small" text-anchor="middle" dominant-baseline="middle">Welcome to my profile</text>
 </svg>
