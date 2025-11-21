@@ -1,25 +1,19 @@
 <div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+cokoreto!;Welcome;To+my+profile"
-        alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+cokoreto!;Welcome;To+my+profile" alt="Typing SVG" />
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cokoreto&label=Profile%20views&color=0e75b6&style=flat" alt="cokoreto" /> </p>
 
 <div align="center">
-  <!-- Ganti dengan avatar jika mau -->
-  <!-- <img src="https://avatars.githubusercontent.com/u/XXX?v=4" alt="Your Profile Picture" width="200" height="200"> -->
-
-  <p>👋 Hey there! I'm <strong>chocoreto</strong>, a student / developer / hobbyist.</p>
-
-  - 👀 I’m interested in Discord Bot, Some Automation Projects
+  <p>👋 Hey there! I'm <strong>cokoreto</strong>, a student / developer / hobbyist.</p>
+  <p>- 👀 I’m interested in Discord Bot, Some Automation Projects</p>
 </div>
 
 <p align="center">🌟 If you share any of these interests or want to collaborate, feel free to connect!</p>
 
 <p align="center">
   <a href="https://github.com/cokoreto"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"></a>
+  <a href="https://www.roblox.com/users/163914103/profile" target="_blank" rel="noopener"><img src="https://cdn.simpleicons.org/roblox/000000" alt="Roblox" width="30" height="30"></a>
 </p>
 
 ### 🛠 Language and tools
@@ -38,13 +32,11 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
-  <!-- Tambah / hapus sesuai kebutuhan -->
 </div>
 
 <br>
 
 <p align="center">
-  <!-- Ganti USERNAME di semua URL di bawah -->
   <a href="https://github.com/cokoreto">
     <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cokoreto?cardType=github&theme=github-dark">
   </a>
