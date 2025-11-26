@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/cokoreto" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=cokoreto&theme=dark&background=000000" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=cokoreto&amp;theme=dark&amp;hide_border=true&amp;border_radius=6&amp;background=000000" alt="GitHub Streak">
   </a>
 </p>
 
